@@ -1,0 +1,19 @@
+table th, td
+{
+    border: 1px solid goldenrod;
+    padding: 10px;
+}
+
+h1{
+    background-color: goldenrod;
+    color: white;
+    padding: 20px;
+}
+
+h2
+{
+    background-color: purple;
+    color: white;
+    padding: 20px;
+}
+
